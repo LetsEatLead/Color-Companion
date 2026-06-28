@@ -52,4 +52,6 @@ Wires for wiring
 4x M3 6mm screws 
 (You can use differently sized M3 screws, just consult the CAD to see if they fit.) 
 
-
+# Links  
+Onshape CAD
+https://cad.onshape.com/documents/70483fd3f9557aaf4b7bc699/w/9afb3eae3ce6437ed4a82568/e/d381e982bd1c6c0bcb748ca7?renderMode=0&uiState=6a41ad054af3a7a0cfb2e8ca
