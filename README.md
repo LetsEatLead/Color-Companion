@@ -45,10 +45,10 @@ Place the top over the main case and screw in the four corners.
 
 Components:  
 1x Generic ESP32 Devboard  
-1x ssd1306 0.96in OLED display
+1x ssd1306 0.96in OLED display  
 1x TCS34725 Color Sensor Devboard (Get the one seen in the wiring diagram) 
 Wires for wiring  
-4x M3 12mm screws
+4x M3 12mm screws  
 4x M3 6mm screws 
 (You can use differently sized M3 screws, just consult the CAD to see if they fit.) 
 
