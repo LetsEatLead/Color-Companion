@@ -47,7 +47,7 @@ Components:
 1x Generic ESP32 Devboard  
 1x ssd1306 0.96in OLED display  
 1x TCS34725 Color Sensor Devboard (Get the one seen in the wiring diagram) 
-1x 6x6x12mm pushbutton
+1x 6x6x12mm pushbutton  
 Wires for wiring  
 4x M3 12mm screws  
 4x M3 6mm screws 
