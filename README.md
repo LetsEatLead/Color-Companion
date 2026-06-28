@@ -1,7 +1,7 @@
 # Color-Companion
 <img width="1169" height="659" alt="IMG_6375" src="https://github.com/user-attachments/assets/856d9c0c-acfb-4b24-847f-3a9835e593bb" />
 
-Ever saw a color and thought, I want that color! The Color Companion is a handheld device with a color sensor and display, which can give you the exact RGB and HEX values of anything for you!
+Ever seen a color and thought, I want that color! The Color Companion is a handheld device with a color sensor and display, which can give you the exact RGB and HEX values of anything for you!
 
 Its built using a esp32 devboard, a ssd1306 oled display, and a TCS34725 color sensor. The code uses Adafruits libraries for communication between the display and sensor over i2c. 
 
@@ -28,7 +28,7 @@ ESP32 GPIO 19 --> sensor led
 # 3D printing notes  
 
 Standard settings work fine (I used PLA, 2 walls, 0.2mm layer height)
-Please note, this should ideally be printed in back to avoid color contamination for the sensor. If you print in a different color please blackout the sensor shroud using marker or paint.
+Please note, this should ideally be printed in black to avoid color contamination for the sensor. If you print in a different color please blackout the sensor shroud using marker or paint.
 
 # Assembly 
 Wire together all components (Ideally with soldered connections)  
@@ -37,7 +37,7 @@ Slide OLED display under hook in top case and secure with two mounting brackets
 Place the top over the main case and screw in the four corners. 
 <img width="880" height="1173" alt="IMG_6380" src="https://github.com/user-attachments/assets/ee552c08-1de9-4c85-af5d-b62d9eb6c121" />
 
-# Build of Materials  
+# Bill of Materials  
 3D printed parts:  
 1x Case Top  
 1x Main Case  
